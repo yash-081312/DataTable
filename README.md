@@ -21,6 +21,9 @@ npm install datatable-component
 yarn add datatable-component
 ```
 
+## Chromatic Link
+https://www.chromatic.com/component?appId=68a209e6ebd244443f9bebc3&csfId=components-datatable&buildNumber=2&k=68a22214f4c3b3f41aa7d864-1200px-interactive-true&h=25&b=-1
+
 ## Quick Start
 
 ```tsx
@@ -247,3 +250,4 @@ MIT License - see LICENSE file for details.
 - Responsive design
 - Accessibility features
 - TypeScript support
+
